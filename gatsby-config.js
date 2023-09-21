@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `MLGubolin: Machine Learning, but with a Gubolin touch.`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Maria Lucia Gubolin`,
+      summary: `Full-Stack Developer, Scientist and Guitarrist`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `This is the place where I post my findings and studies of all things regarding oftware. Maybe other things as well!`,
+    siteUrl: `https://mlgubol.in/`,
     social: {
       twitter: `kylemathews`,
     },
