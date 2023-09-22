@@ -12,12 +12,12 @@ module.exports = {
     title: `MLGubolin: Machine Learning, but with a Gubolin touch.`,
     author: {
       name: `Maria Lucia Gubolin`,
-      summary: `Full-Stack Developer, Scientist and Guitarrist`,
+      summary: `Full-Stack Developer, Scientist and Guitarrist.`,
     },
     description: `This is the place where I post my findings and studies of all things regarding oftware. Maybe other things as well!`,
     siteUrl: `https://mlgubol.in/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `mlgubolin`,
     },
   },
   plugins: [
