@@ -1,5 +1,5 @@
 ---
-title: Introduction to the blog
+title: Blog's Introduction
 date: "2023-09-21"
 description: The first post for my new blog. Check out what this blog is about!
 ---
