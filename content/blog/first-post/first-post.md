@@ -1,7 +1,7 @@
 ---
 title: Blog's Introduction
 date: "2023-09-21"
-description: The first post for my new blog. Check out what this blog is about!
+description: "From Astrophysics to Software Development: My Pivot Back to Data Science!"
 ---
 Hi there, hello! I'm Maria Lucia Gubolin, and welcome to my blog, which will focus primarily on Machine Learning and Data Science. Among other things. 
 
